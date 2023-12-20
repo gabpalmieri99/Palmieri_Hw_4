@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ccsol/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ccsol/catkin_ws/src/arm_controller/include/**",
+        "/home/ccsol/catkin_ws/src/aruco_ros/aruco/include/**",
+        "/home/ccsol/catkin_ws/src/aruco_ros/aruco_ros/include/**",
+        "/home/ccsol/catkin_ws/src/fra2mo_2dnav/include/**",
+        "/home/ccsol/catkin_ws/src/iiwa_stack/iiwa_controller/include/**",
+        "/home/ccsol/catkin_ws/src/iiwa_stack/iiwa_hw/include/**",
+        "/home/ccsol/catkin_ws/src/iiwa_stack/iiwa_ros/include/**",
+        "/home/ccsol/catkin_ws/src/kdl_robot/include/**",
+        "/home/ccsol/catkin_ws/src/ros_tutorials/turtlesim/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
